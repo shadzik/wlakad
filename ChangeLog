@@ -1,0 +1,5 @@
+Version 0.1 20070307
+- initial version
+
+Version 0.2 20070501
+- add chkpid function to avoid multiple instances of the daemon
